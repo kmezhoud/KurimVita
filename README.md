@@ -1,17 +1,12 @@
----
-title: "CURRICULUM VITAE"
-author: "Karim Mezhoud"
-output: html_document
----
+# CurriculumVitae
 Nuclear Safety Department, Nuclear Science Center of Tunisia.
 2020 Ariana, Technopole Sidi Thabel - Tunis.
 
 <div id="webaddress">
-[kmezhoud@gmail.com](kmezhoud@gmail.com)
+kmezhoud@gmail.com
 | 
 00216 25 90 99 01
-|
-[kmezhoud](https://github.com/kmezhoud)
+
 </div>
 
 
@@ -90,7 +85,8 @@ French | Arabic | English
 
 ## Reference
 
+<!--
 [Levi Waldron](http://waldronlab.org/) works at CUNY School of Public Health at Hunter College 2180 3rd Ave Room, 538 New York, NY 10035 levi.waldron@hunter.cuny.edu
-
+-->
 
 

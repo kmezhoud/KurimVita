@@ -1,2 +1,2 @@
-# KurimVita
+# KurimVitae
 CurriclumVitae
